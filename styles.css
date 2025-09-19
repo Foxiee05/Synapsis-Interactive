@@ -1,0 +1,17 @@
+/* styles.css */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000; 
+  overflow: hidden;
+  /* cursor: url('cursor.png'), auto; */
+}
+
+canvas {
+  display: block;
+}
